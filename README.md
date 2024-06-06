@@ -29,6 +29,10 @@ Please cite this compendium as:
 > paper goes here*. Accessed 24 Apr 2024. Online at
 > <https://doi.org/xxx/xxx>
 
+The content of this repository has been also published in Zenodo. Online
+at <https://zenodo.org/records/10825371>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10825371.svg)](https://doi.org/10.5281/zenodo.10825371)
+
 ## Contents
 
 The project directory contains:
